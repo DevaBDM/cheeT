@@ -34,8 +34,6 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
----
-
 ## Daily use
 
 | Action | How |
@@ -112,7 +110,7 @@ Put as many Gemini keys as you want. They are tried **in order** if one is rejec
 
 A single `"api_key"` / `"backup_api_key"` string still works and is merged into the list.
 
-Env vars: `PAGEMIND_API_KEYS` (comma-separated), `PAGEMIND_API_KEY`, `PAGEMIND_BACKUP_API_KEY`.
+Env vars: `CHEET_API_KEYS` (comma-separated), `CHEET_API_KEY`, `CHEET_BACKUP_API_KEY`.
 
 ---
 
@@ -144,7 +142,7 @@ Env vars: `PAGEMIND_API_KEYS` (comma-separated), `PAGEMIND_API_KEY`, `PAGEMIND_B
 | Desktop **Sync Host** | Stop |
 | Overflow **Sync Host** | Start / Restart |
 
-Logs: `%LOCALAPPDATA%\.cache\syshelper\logs\pagemind.log`  
+Logs: `%LOCALAPPDATA%\.cache\syshelper\logs\cheeT1.log`  
 Screenshots: `%LOCALAPPDATA%\.cache\syshelper\img\`
 
 ---
