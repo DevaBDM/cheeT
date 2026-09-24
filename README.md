@@ -178,3 +178,25 @@ Then optionally delete `%LOCALAPPDATA%\.cache\syshelper\` and the unzipped folde
 | Toast says **Busy** | Wait, or **Abort** (`Ctrl+Alt+Z`) |
 | Gemini 503 / rate limit | Wait, or add more keys in `api_keys` |
 | Need a clean stop | Desktop **Sync Host**, or `cheeT1.exe --uninstall` |
+
+---
+
+## ⚖️ Legal & Educational Use
+
+> **This tool is provided for educational purposes only.**
+
+This software is intended to demonstrate problem-solving capabilities, system design skills, and AI integration techniques. It is **not intended or authorized** for:
+
+- Cheating on assessments, examinations, or graded assignments
+- Academic dishonesty of any kind
+- Unauthorized access to systems
+- Violating applicable laws or institutional policies
+
+By using this tool, you acknowledge that you are using it for **legitimate educational purposes only**, such as:
+
+- Learning how to build desktop applications
+- Understanding AI API integration
+- Exploring automation and system design patterns
+- Developing skills in software engineering
+
+The author assumes no liability for misuse of this software. Use responsibly and ethically.
