@@ -6,6 +6,14 @@ It runs in the background. Settings live in the **cheeT1** window. The tray icon
 
 ---
 
+## Download
+
+| Version | Release |
+|---------|---------|
+| v1 | [Download `cheeT1-v1.zip`](https://github.com/DevaBDM/cheeT/releases/tag/v1) |
+
+---
+
 ## Install on a new PC
 
 1. Unzip `cheeT1-v1.zip` anywhere (Desktop is fine).
