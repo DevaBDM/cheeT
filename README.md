@@ -26,18 +26,6 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-## Website (GitHub Pages)
-
-The live site is **[amexdire27-png.github.io/cheeT](https://amexdire27-png.github.io/cheeT/)**.
-
-GitHub Pages serves the `site/` folder. Notes email **amexdire27@gmail.com** (Formsubmit on Pages; Resend when `serve.py` runs with `RESEND_API_KEY`). Downloads and stars count only real clicks — no auto-bump.
-
-Set `RESEND_API_KEY` on the host that runs `python site/serve.py` (Render Environment). Do not put the key in the repo. Free Resend can send from `beth.t@example.com` to the address you signed up with.
-
-A GitHub Action deploys on every push to `master`.
-
-Local preview: `python site/serve.py` → http://127.0.0.1:8765/
-
 ---
 
 ## Daily use
